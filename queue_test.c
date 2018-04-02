@@ -75,6 +75,8 @@ void queue_get_first_test(void)
 
     queue_destroy(queue);
 
+    queue = NULL;
+
     CU_ASSERT_PTR_NULL(queue_get_first(queue));
 }
 

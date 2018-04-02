@@ -14,11 +14,17 @@ queue_t* queue_new()
 
 link_t* queue_get_first(queue_t *queue)
 {
+    if (queue == NULL) {
+        return NULL;
+    }
     return queue->first;
 }
 
 link_t* queueu_get_last(queue_t *queue)
 {
+    if (queue == NULL) {
+        return NULL;
+    }
     return queue->last;
 }
 
