@@ -52,7 +52,7 @@ bool queue_pop(queue_t *queue);
 /// \returns: void
 void queue_display(queue_t *queue);
 
-/// \returns: the first link in the queuea
+/// \returns: the first link in the queue
 link_t* queue_get_first(queue_t *queue);
 
 /// \returns: the last link in the queue
