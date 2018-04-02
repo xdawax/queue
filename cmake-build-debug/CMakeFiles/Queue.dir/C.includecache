@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawa/Documents/Programming/C/queue/Queue/cmake-build-debug/queue.c
+assert.h
+-
+../queue.h
+/home/dawa/Documents/Programming/C/queue/Queue/queue.h
+
+/home/dawa/Documents/Programming/C/queue/Queue/cmake-build-debug/queue_test.c
+
+/home/dawa/Documents/Programming/C/queue/Queue/main.c
+stdio.h
+-
+string.h
+-
+CUnit/Basic.h
+/home/dawa/Documents/Programming/C/queue/Queue/CUnit/Basic.h
+CUnit/CUnit.h
+/home/dawa/Documents/Programming/C/queue/Queue/CUnit/CUnit.h
+queue.h
+/home/dawa/Documents/Programming/C/queue/Queue/queue.h
+
+/home/dawa/Documents/Programming/C/queue/Queue/queue.h
+stdbool.h
+-
+stdlib.h
+-
+stdio.h
+-
+
