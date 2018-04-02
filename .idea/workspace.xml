@@ -13,9 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6997222a-af91-4205-94d0-ed3acaee91c5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/queue.c" afterPath="$PROJECT_DIR$/cmake-build-debug/queue.c" />
-      <change beforePath="$PROJECT_DIR$/queue_test.c" afterPath="$PROJECT_DIR$/queue_test.c" />
-      <change beforePath="$PROJECT_DIR$/test" afterPath="$PROJECT_DIR$/test" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -180,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522662390157</updated>
       <workItem from="1522662392082" duration="11841000" />
-      <workItem from="1522675248979" duration="3665000" />
+      <workItem from="1522675248979" duration="3833000" />
     </task>
     <task id="LOCAL-00001" summary="fst">
       <created>1522675376727</created>
@@ -207,11 +204,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15506000" />
+    <option name="totallyTimeSpent" value="15674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

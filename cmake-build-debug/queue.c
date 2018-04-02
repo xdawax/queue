@@ -4,7 +4,7 @@
 
 #include <assert.h>
 #include "../queue.h"
-
+// git wont add my changes trying with comment!
 queue_t* queue_new()
 {
     queue_t *queue = calloc(sizeof(queue_t), 1);
